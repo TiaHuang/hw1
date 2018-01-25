@@ -1,5 +1,5 @@
 right
-function move = getColor (){
+function move (){
 	var colorSeen = getColor()
 	if (getColor == “pink”) {
 	up
