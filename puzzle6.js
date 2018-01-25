@@ -1,26 +1,28 @@
 right
-var move = getColor ()
+function move = getColor (){
+	var colorSeen = getColor()
 	if (getColor == “pink”) {
 	up
 	up
 	up
-	getColor ()
+	var colorSeen = getColor ()
 		if (getColor == “pink”) {
 		left
 		up
-	} 
+		}
 		if (getColor == “blue”) {
 		right
 		up
+		}
 	} 
-}
 	if (getColor == “blue”) {
 	down
 	down
 	down
-	getColor ()
+	var colorSeen = getColor ()
 		if (getColor == “pink”) {
 		left
 		down
+		}
 	} 
 }
