@@ -3,15 +3,15 @@ down
 down
 down
 right
-var colorseen = getColor
+var colorSeen = getColor
 down
-setColor (colorseen)
+setColor (colorSeen)
 right
 right
 up
 right
-var colorseen = getColor
+var colorSeen = getColor
 down
-setColor (colorseen)
+setColor (colorSeen)
 right
 right
