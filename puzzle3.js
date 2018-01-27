@@ -1,12 +1,12 @@
 down
 down
-var colorseen=getColor ()
+var colorSeen=getColor ()
 down
 down
 down
 right
 right
-setColor (colorseen)
+setColor (colorSeen)
 right
 right
 up
