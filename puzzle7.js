@@ -1,23 +1,24 @@
-while (getColor != “pink”) {
-	down
+while (getColor() != "red"){
+    down();
 }
-right
-right
-while (getColor != “pink”) {
-	up
+right();
+right();
+while (getColor() != "red") {
+    up();
 }
-right right
-while (getColor != “pink”) {
-	down
+right();
+right();
+while (getColor() != "red") {
+    down();
 }
-right
-right
-while (getColor != “pink”) {
-	up
+right();
+right();
+while (getColor() != "red") {
+    up();
 }
-right
-right
-while (getColor != “pink”) {
-	down
+right();
+right();
+while (getColor() != "red") {
+    down();
 }
-right
+right();
